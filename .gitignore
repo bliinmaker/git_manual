@@ -1,0 +1,10 @@
+ignore_me.txt 
+app/ignored/ 
+*.py[cdo] 
+app/**/*.log 
+!app/main.log
+*.gitignore
+# Игнорировать файл # Игнорировать папку
+# Игнорировать все файлы с расширением pyc/pyd/pyo # Игнорировать log-файлы в 
+app- и поддиректориях
+# ... кроме файла main.log
